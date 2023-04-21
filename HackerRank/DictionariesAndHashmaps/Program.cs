@@ -1,0 +1,3 @@
+﻿using DictionariesAndHashmaps;
+
+RansomNote.Result();
