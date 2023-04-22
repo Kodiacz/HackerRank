@@ -8,6 +8,8 @@ namespace DictionariesAndHashmaps
     {
         private string CheckMagazine(List<string> magazine, List<string> note)
         {
+            // my solution
+
             //Dictionary<string, int> noteWords = new Dictionary<string, int>();
             //Dictionary<string, int> magazineWords = new Dictionary<string, int>();
 
@@ -47,6 +49,8 @@ namespace DictionariesAndHashmaps
 
             //return "Yes";
 
+            // busesorin solution
+
             Dictionary<string, int> hash = new Dictionary<string, int>();
 
             foreach (var word in magazine)
@@ -78,7 +82,7 @@ namespace DictionariesAndHashmaps
 
 
 
-        public static void Result()
+        public static void Run()
         {
             RansomNote ransomeNote = new RansomNote();
 

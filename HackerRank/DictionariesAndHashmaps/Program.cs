@@ -1,3 +1,4 @@
 ﻿using DictionariesAndHashmaps;
 
-RansomNote.Result();
+//RansomNote.Run();
+TwoStrings.Run();
