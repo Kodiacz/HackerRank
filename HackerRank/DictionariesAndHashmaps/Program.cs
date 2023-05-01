@@ -1,4 +1,5 @@
 ﻿using DictionariesAndHashmaps;
 
 //RansomNote.Run();
-TwoStrings.Run();
+//TwoStrings.Run();
+SherlockAndAnagrams.Run();
